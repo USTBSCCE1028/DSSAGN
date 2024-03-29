@@ -1,1 +1,5 @@
 knowledge_graphs_data
+
+CommonsenseQA
+
+OpenbookQA
